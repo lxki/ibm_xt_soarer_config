@@ -86,12 +86,6 @@ layer 2
 
 	# []/{} macro
 	K			F14
-
-	# =/+ macro
-	L			EQUAL
-
-	# -/_ macro
-	SEMICOLON	MINUS
 endblock
 
 # macros
